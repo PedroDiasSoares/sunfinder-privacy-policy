@@ -3,3 +3,5 @@
 This repository hosts the public privacy policy for the SunFinder mobile app.
 
 Privacy policy page: https://pedrodiassoares.github.io/sunfinder-privacy-policy/
+
+Data deletion page: https://pedrodiassoares.github.io/sunfinder-privacy-policy/data-deletion.html
